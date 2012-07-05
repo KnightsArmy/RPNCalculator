@@ -1,0 +1,1 @@
+This is a little project to play around with WPF. It hasn't been tested very well right now. Use at your own risk.
