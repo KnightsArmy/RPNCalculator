@@ -12,7 +12,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "" )]
 [assembly: AssemblyProduct( "RPNCalculator" )]
-[assembly: AssemblyCopyright( "Copyright ©  2009" )]
+[assembly: AssemblyCopyright("Copyright ©  2009 - 2017")]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
 
